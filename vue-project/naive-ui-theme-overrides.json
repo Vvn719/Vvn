@@ -1,0 +1,27 @@
+{
+  "DynamicTags": {
+    "inputWidth": "64px"
+  },
+  "Steps": {
+    "indicatorTextColorFinish": "#D6B683FF",
+    "indicatorTextColorError": "#e88080",
+    "indicatorBorderColorProcess": "#63E2B700",
+    "indicatorBorderColorFinish": "#D6B683FF",
+    "indicatorColorProcess": "#D6B683FF",
+    "splitorColorFinish": "#D6B683FF",
+    "indicatorTextColorProcess": "#000"
+  },
+  "common": {
+    "fontFamily": " 'Noto Sans TC', sans-serif,'Playfair Display', serif;",
+    "fontWeight": "400",
+    "fontWeightStrong": "500",
+    "primaryColor": "#CCA86EFF",
+    "primaryColorHover": "#D6B683FF",
+    "primaryColorSuppl": "#D6B683FF",
+    "primaryColorPressed": "#A68248FF",
+    "infoColor": "#B8927FED",
+    "infoColorHover": "#CCAA99EE",
+    "infoColorSuppl": "#CCAA99EE",
+    "infoColorPressed": "#B68770ED"
+  }
+}
